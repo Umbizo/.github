@@ -1,3 +1,2 @@
 # Umbizo code repository
-Umbizo clients can access their repositories by requesting access via our website https://www.umbizo.co.uk/
-
+Clients can access and fork their personal repositories by requesting access from heatherrobinson@umbizo.co.uk
